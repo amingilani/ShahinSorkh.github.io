@@ -9,61 +9,60 @@ It is going to cover _cersorship_ and _sanctions_.
 
 # Censorship
 
-Censorship comes along with traces of governments ALWAYS!
+Censorship comes along with traces of governments _always_!
 
-In many contries allover the world, governments tend to block their citizens to
-access some certain domains/ips across the internet. Some say "It's there to
-keep culture and moral healthy!". They block pornographies and so. Even in US
-we can find certain domains which are blocked and cannot be accessed like those
-which contain CP or wild anti-humanism contents.
+In many countries all over the world, governments tend to block their citizens' 
+access to certain domains/IPs across the internet. Some say, "It's there to
+keep culture and moral healthy!" They may block pornography and other content. Even in the US,
+we can find domains which are blocked and cannot be accessed, like those
+that contain CP or wild, anti-humanism content.
 
-But in Iran (and most other countries) that's not the case!
+However, in Iran (and most other countries) that's not the case!
 
-They block many things. We cannot visit medias like BBC, FoxNews, VOA,
-social-medias like Twitter, Facebook, messangers like Telegram, WeChat, Kik,
-SnapChat, services like YouTube, you may not believe, but even some subdomains
-of sourceforge!
+They block many things. We cannot visit media websites like BBC, Fox News or VOA,
+social media websites like Twitter or Facebook, messengers like Telegram, WeChat, Kik or
+SnapChat, or services like YouTube, and—you probably won't believe me—but even some SourceForge subdomains!
 
-**Why?** Because it is how the totalitarian government can live. Though they
+**Why?** Because that is how the totalitarian government can live. Though they
 sell VPNs and proxies, they spy on their people and they eliminate unwanted
-elements of the society way easily. You may never find out what happened to your
+elements of the society very easily. You may never find out what happened to your
 friend who you just visited few days ago!
 
-The filtering/cyber censorship, is a really profitable industry! For both, the
-government AND non-governmental companies, as they get paid much more than a
+The filtering/cyber-censorship industry is a really profitable! For both the
+government and private companies, since they get paid much more than a
 typical IT company here!
 
-Sometimes you see they place heavy filtering on some services, e.g Telegram,
-to promote their own service! Sometimes they say fancy things about a service
-like "It is Israelian!". I mean, so what? Haven't you used _Israelian_ weapons
-during war vs. Iraq (1980-1988)? It wasn't a thing then, but now it is!
+Sometimes, you see they place heavy filtering on some services, e.g. Telegram,
+to promote their own service! Sometimes, they say fancy things about a service,
+for example: "it is Israeli!" I mean, so what? Haven't you used _Israeli_ weapons
+during the war with Iraq (1980-1988)? It wasn't a thing then, but it is now!
 
-Sometimes they break SSL/TLS! I recently saw similar thing, [Kazakhstan
-intercepting HTTPS Traffic][reddit-kazakhstan], officially MITM their citizens!
+Sometimes they break SSL/TLS! I recently saw something similar: [Kazakhstan
+intercepting HTTPS Traffic][reddit-kazakhstan], officially MITM-ing their citizens!
 
 **Ok, what is affecting me, as a dev?** You know, their systems are not perfect.
-Sometimes you come up with losing access to some must-have services, like
-GitHub! Why? Because the filtering program has droped the connections to GitHub
-because of accident/misconfigs! Sometimes you come up with totally broken SSL
-handshakes! Sometimes SSL handshakes can take long forever and break at the end!
-Sometimes CloudFlare resists to serve due to broken TCP packets!
+Sometimes you lose access to crucial services, like
+GitHub! Why? Because the filtering program dropped the connections to GitHub
+due to an accidental misconfiguration! Sometimes, you come across totally broken SSL
+handshakes! Sometimes, SSL handshakes can take long forever and break at the end!
+Sometimes, CloudFlare resists serving due to broken TCP packets!
 
-It is pain in the ass when you are going to learn something new; no YouTube,
-no Reddit, no Medium, painfull surfing the web and so on.
+It is a pain in the ass when you are going to learn something new; no YouTube,
+no Reddit, no Medium, painfully surfing the web and so on.
 
-I don't talk about low quality internet access, like 200kB/s on home wifi!
+I don't talk about low quality internet access, like 200kB/s on home WiFi!
 
 # Sanctions
 
 If you follow world news, you have definitely heard about sanctions against Iran
 because of Iran's nuclear programs. Though it is not just limited to physics and
-nuclear things, many companies have obeyed US sanctions against Iran.
+nuclear things. Many companies have obeyed US sanctions against Iran.
 
-No body really care about what would happen to the people. People worth nothing.
-That's what they believe. Both Iran's government AND international institutes,
-you say UN.
+Nobody really cares about what would happen to the people. The people are worth nothing.
+That's what they believe. Both Iran's government and international institutions.
+Not even the UN.
 
-People are dying due to absence of medicines. People are starving.
+People are dying due to the absence of medicine. People are starving.
 The economy system is falling apart and the politicians and their children are
 all abroad! None of them have any sense about what is going on the streets.
 
@@ -74,21 +73,21 @@ You see?
 
 [![Sanctions of Docker][sanc-docker-img]][sanc-docker]
 
-Few months ago, Slack team, decided to join the sanctions. They simply deleted
+Few months ago, the Slack team, decided to join the sanctions. They simply deleted
 every single user who they found out is Iranian! With no real prior notices!
-Many people has lost their data on Slack and no one was going to do anything!
-They had some Iranian users who was living abroad for many years and hasn't even
-visited Iran for a long time, but their account got deleted along with others!
-There were lots of peolpe complaining about it on
+Many people have lost their data on Slack and no one is going to do anything!
+They had some Iranian users who were living abroad for many years and had't even
+visited Iran in a long time, but their account was deleted along with others!
+There were lots of people complaining about it on
 [T][sanc-slack-1][w][sanc-slack-2][i][sanc-slack-3][t][sanc-slack-4][t][sanc-slack-5][e][sanc-slack-6][r][sanc-slack-7].
 [A][sanc-slack-8][n][sanc-slack-9][d][sanc-slack-10]
 [e][sanc-slack-11][v][sanc-slack-12][e][sanc-slack-13][n][sanc-slack-14]
 [m][sanc-slack-15][o][sanc-slack-16][r][sanc-slack-17][e][sanc-slack-18].
 (I guess you [got the idea][sanc-slack-more].)
 
-We cannot have MasterCard/VisaCard easily, thanks to economic banking sanctions.
-Thus, we cannot create AWS account, we cannot buy anything on amazon/ebay, we
-cannot have google store console, we cannot use (almost) any enterprise service.
+We cannot have Master Card or Visa easily, thanks to economic banking sanctions.
+Thus, we cannot create AWS account, we cannot buy anything on Amazon or Ebay, we
+cannot have Google Store console, we cannot use (almost) any enterprise service.
 
 [Android dev][android-dev] returns HTTP 403, [Docker docs][docker-docs] returns
 HTTP 403, [bintray][bintray] returns HTTP 403, [Schema.org][schema-org] returns
@@ -99,24 +98,24 @@ HTTP 403 and so on. ([There is a long list available][fod-domains])
 You may have no sense of what I am talking about.
 Imagine you are supposed to build something with a new technology you know
 nothing about for your company. The first step is to find the technology
-documentations and try to figure out how to make it work.
+documentation and try to figure out how to make it work.
 
-After googling the name of it, you find many related links including links to
-the official documentations. You click on the link and suddenly an annoying ugly
+After Googling the name of it, you find many related links including links to
+the official documentation. You click on the link and suddenly an annoying, ugly,
 stupid page pops out which has a big text on it "You are sanctioned by the US
 and we cannot serve you".
 
-You get back to the google results and try to find something else. You see
-YouTube and medium links there but you know they are censored or unavailable for
+You get back to the Google results and try to find something else. You see
+YouTube and Medium links there but you know they are censored or unavailable for
 where you live and you cannot use them either.
 
-A link to a SO question takes your attention and you click on it. The question
+A link to a StackOverflow question takes your attention and you click on it. The question
 is about something likely advanced in that technology and you have no idea what
-are they talking about! You have no choice to get to google results, page 2.
+are they talking about! You have no choice to get to Google results, page 2.
 On page 2 to page 100,000 there is no related links!
 
-You go to your boss and tell him/her "This technology is not working here. Find
-something else or cancel the project". Tomarrow you are looking for a new
+You go to your boss and tell them, "This technology is not working here. Find
+something else or cancel the project". The next day, you are looking for a new
 position somewhere else!
 
 # How do we survive?
